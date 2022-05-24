@@ -1,5 +1,7 @@
 # Thank you for visiting my github portfolio organization!
 
+![banner image](../KpxB69kM6wajkXxv40zF_2x.jpg)
+
 ## About Me
 
 - My name is Josh Parker.
